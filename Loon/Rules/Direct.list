@@ -1,0 +1,30 @@
+# Alibaba
+DOMAIN-SUFFIX,alimama.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,mmstat.com
+
+# Futu / 富途 / moomoo
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futuau.com
+DOMAIN-SUFFIX,futusecurities.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.io
+
+# Tailscale
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,tailscale.io
+IP-CIDR,100.64.0.0/10,no-resolve
+
+# Hong Kong Government
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,政府.香港
+
