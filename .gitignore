@@ -1,0 +1,24 @@
+# Local-only credentials and overrides; these rules do not affect OneDrive sync.
+.env
+.env.*
+!.env.example
+*.local.*
+*.private.*
+*.key
+*.pem
+*.p12
+*.pfx
+private/
+secrets/
+
+# Machine state, backups and temporary outputs.
+.runtime/
+logs/
+backups/
+*.log
+*.tmp
+*.bak
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini
